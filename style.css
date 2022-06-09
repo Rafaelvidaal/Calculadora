@@ -24,3 +24,10 @@ html, body {
     border: 2px solid black;
     border-radius: 5px;
 }
+
+@media (max-width: 600px){
+*{
+text-align: center;
+margin-top: 3px;
+}
+}
